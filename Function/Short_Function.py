@@ -18,4 +18,5 @@ cars=["bmw","tesla","nano","swift desire"]
 
 
 newlist=[x for x in cars if x!="Tata"]
-print(newlist)
+#output You want then loop then condition
+print(newlist) #print in form of list
